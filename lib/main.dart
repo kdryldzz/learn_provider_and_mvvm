@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:learn_provider_and_mvvm/app/theme.dart';
-import 'package:learn_provider_and_mvvm/views/characters_view/characters_view.dart';
 import 'package:learn_provider_and_mvvm/widgets/bottom_navigation_bar_widget.dart';
 void main() {
   runApp(const MyApp());
